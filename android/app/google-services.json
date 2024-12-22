@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156853457634",
+    "project_id": "konchuee",
+    "storage_bucket": "konchuee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156853457634:android:728d108bf4ffb9fdae04bb",
+        "android_client_info": {
+          "package_name": "com.firebase.konchue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxocCsS0LRjn8tmqRgpXcFgh_Un0psV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156853457634:android:430c758c44a00357ae04bb",
+        "android_client_info": {
+          "package_name": "com.firebase.konchuee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxocCsS0LRjn8tmqRgpXcFgh_Un0psV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
